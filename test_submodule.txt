@@ -1,2 +1,3 @@
 add log1
 add log a
+add log b
